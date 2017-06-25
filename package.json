@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "markdown-it-toc-and-anchor": "^4.1.2",
+    "webpack": "^3.0.0"
+  }
+}
